@@ -5,3 +5,7 @@
 <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" style="zoom:20%"/>
 
 ### Test 2 (Model: Magnetic field increases with age)
+
+
+## Comparative results between two tests
+Test 1 demonstrates the similarity of distribution of vsin(i) observed and predicted by the ABC method, instead of Test 2.  
