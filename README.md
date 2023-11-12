@@ -2,7 +2,7 @@
 ## Autoconsistency of our results:
 
 ### Test 1 (Model: Magnetic field decreases with age)
-Following the results found in our Paper (Figure 12). We select input values of the magnetic field which follows the CDF of each bin (Figure 13). Additionally, we use the CDF of the mass accretion rate per bin from Figure 11, select random values of the initial rotation period (between 1 and 8 days), and set the branching ratio parameter to 0.3. As a result, we plot distributions of vsin(i) provided by models in comparison with our observations.
+Following the results found in our Paper (Figure 12). We select input values of the magnetic field which follows the CDF of each bin (Figure 13). Additionally, we use the CDF of the mass accretion rate per bin from Figure 11, select random values of the initial rotation period (between 1 and 8 days), and set the branching ratio parameter to 0.3. As a result, we show distributions of vsin(i) provided by models in comparison with our observations.
 
 <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/> <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/>
 <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/> <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/>
