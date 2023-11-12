@@ -2,7 +2,7 @@
 ## Autoconsistency of our results:
 
 ### Test 1 (Model: Magnetic field decreases with age)
-Following the results found in our Paper in Figure 12. Magnetic field decreases with age, using the cumulative distribution function of each bin, we build an input model of the Magnetic Field for the ABC method.  
+Following the results found in our Paper (Figure 12). We select input values of the magnetic field which follows the CDF of each bin (Figure 13). Additionally, we follow the CDF of the mass accretion rate per bin from Figure 11 and select random values of the initial rotation period (between 1 and 8 days) 
 
 <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/> <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/>
 <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/> <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/>
