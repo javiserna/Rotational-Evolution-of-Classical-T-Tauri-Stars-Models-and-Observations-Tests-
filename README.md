@@ -3,3 +3,4 @@
 ### Test 1 (Model: Magnetic field decreases with age)
 
 
+### Test 2 (Model: Magnetic field increases with age)
