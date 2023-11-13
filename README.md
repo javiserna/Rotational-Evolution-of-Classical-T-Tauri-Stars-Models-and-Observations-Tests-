@@ -3,7 +3,7 @@ This repository was made to demonstrate that by making tests from back forward w
 Here, we prove that resulting values of v sin(i) that come from the decrease of magnetic field and branching ratio distributions with age (Figure 12 of our paper) effectively account for v sin(i) observations of Figure 10.
 
 ### Test 1 (Model: Magnetic field decreases with age)
-Using the results found in our paper, we choose values of the magnetic field that follow the CDF of each bin (Figure 13). Additionally, as input, we use the mass accretion rate per bin from Figure 11, choose random values of the initial rotation period (between 1 and 8 days), and set the branching ratio parameter to 0.3.
+We use the results found in our paper for this we choose values of the magnetic field that follow the CDF of each bin (Figure 13). Similarly, we use values of the mass accretion rate per bin from Figure 11, choose random values of the initial rotation period (between 1 and 8 days), and set the branching ratio parameter to 0.3.
 
 Finally, we show distributions of vsin(i) provided by models in comparison with our observations. Using the histogram intersection as a metric of similarity between distributions
 
