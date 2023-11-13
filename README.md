@@ -26,7 +26,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 ## Comparative results between two tests for magnetic field
 Test 1 demonstrates similar distributions of vsin(i) observed and predicted by the ABC method. 
 Instead of Test 2 which can not reproduce observations.
-<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_Bfield.png?raw=true" width="800"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_Bfield.png?raw=true" width="700"/>
 
 ### Test 1 (Model: Branching ratio decreases with age)
 We use the results found in our paper for this we choose values of the Branching ratio that follow the CDF of each bin (Figure 13). Similarly, we use values of the mass accretion rate per bin from Figure 11, choose random values of the initial rotation period within the range of 1 to 8 days, and set the magnetic field parameter to 2000 G.
@@ -41,13 +41,13 @@ We build a set of Gaussian distributions of branching ratio increasing along the
 
 Distributions of Branching ratio
 
-<img src="" width="400"/> <img src="" width="400"/>
-<img src="" width="400"/> <img src="" width="400"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin1_B_model_increase_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin2_B_model_increase_chi.png?raw=true" width="400"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_B_model_increase_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_B_model_increase_chi.png?raw=true" width="400"/>
 
 In the subsequent plots, we display the resulting distributions of vsin(i) in comparison to our observational data.
 
-<img src="" width="400"/> <img src="" width="400"/>
-<img src="" width="400"/> <img src="" width="400"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin1_vsini_model_increase_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin2_vsini_model_increase_chi.png?raw=true" width="400"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_model_increase_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_model_increase_chi.png?raw=true" width="400"/>
 
 ## Comparative results between two tests for branching ratio
 Test 1 demonstrates similar distributions of vsin(i) observed and predicted by the ABC method. Instead of Test 2 which can not reproduce observations.
