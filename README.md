@@ -11,9 +11,15 @@ In the subsequent plots, we illustrate the resulting distributions of vsin(i) ge
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_posterior.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_posterior.png?raw=true" width="400"/>
 
 ### Test 2 (Model: Magnetic field increases with age)
-<img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/> <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/>
-<img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/> <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/bin1_vsini_model_increase.png" width="400"/>
+Using similar conditions to test 1, we build a sequence of distributions of magnetic field increasing along the bins.
+
+<img src="" width="400"/> <img src="" width="400"/>
+<img src="" width="400"/> <img src="" width="400"/>
+
+
+<img src="" width="400"/> <img src="" width="400"/>
+<img src="" width="400"/> <img src="" width="400"/>
 
 ## Comparative results between two tests
 Test 1 demonstrates the similarity of distribution of vsin(i) observed and predicted by the ABC method, instead of Test 2.  
-<img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/comparative_1.png" width="400"/>
+<img src="" width="800"/>
