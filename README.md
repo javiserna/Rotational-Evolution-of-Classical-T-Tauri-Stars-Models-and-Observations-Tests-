@@ -1,4 +1,6 @@
 # Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-
+This repository was made to demonstrate that the decrease of magnetic field and branching ratio with time shown in Figure 12 of our paper, effectively account for v sin(i) observations of Figure 10.
+
 ## Autoconsistency of our results:
 
 ### Test 1 (Model: Magnetic field decreases with age)
