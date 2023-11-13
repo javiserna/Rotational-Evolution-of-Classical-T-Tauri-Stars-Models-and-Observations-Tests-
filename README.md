@@ -15,8 +15,8 @@ We build a set of Gaussian distributions of magnetic field increasing along the 
 
 Distributions of Magnetic Field
 
-<img src="" width="400"/> <img src="" width="400"/>
-<img src="" width="400"/> <img src="" width="400"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin1_B_model_increase.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin2_B_model_increase.png?raw=true" width="400"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_B_model_increase.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_B_model_increase.png?raw=true" width="400"/>
 
 In the subsequent plots, we display the resulting distributions of vsin(i) in comparison to our observational data.
 
@@ -26,3 +26,6 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 ## Comparative results between two tests
 Test 1 demonstrates similar distributions of vsin(i) observed and predicted by the ABC method. Instead of Test 2 which can not 
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_Bfield.png?raw=true" width="800"/>
+
+<img src="" width="400"/> <img src="" width="400"/>
+<img src="" width="400"/> <img src="" width="400"/>
