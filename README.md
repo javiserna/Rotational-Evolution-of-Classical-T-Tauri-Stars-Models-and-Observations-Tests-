@@ -50,5 +50,5 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 
 ## Comparative results between two tests for branching ratio
 Test 1 demonstrates similar distributions of vsin(i) observed and predicted by the ABC method. Instead of Test 2 which can not reproduce observations.
-<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_Bfield.png?raw=true" width="800"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_chi.png?raw=true" width="800"/>
 
