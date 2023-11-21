@@ -49,7 +49,7 @@ In the subsequent plots, we illustrate the resulting distributions of vsin(i) ge
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_posterior_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_posterior_chi.png?raw=true" width="400"/>
 
 ### Test 2 (Model: Branching ratio increases with age)
-We build a set of Gaussian distributions of branching ratio increasing along the age and use similar conditions for mass accretion rate, initial period, and branching ratio than Test 1. 
+We build a set of Gaussian distributions of branching ratio increasing along the age and use similar conditions for mass accretion rate, initial period, and magnetic field ratio than Test 1. 
 
 Distributions of Branching ratio
 
@@ -62,7 +62,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_model_increase_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_model_increase_chi.png?raw=true" width="400"/>
 
 ### Test 3 (Model: Branching ratio remains constant with age)
-We build a set of Gaussian distributions of branching ratio increasing along the age and use similar conditions for mass accretion rate, initial period, and branching ratio than Test 1. 
+We construct a Gaussian distribution of branching ratio increasing along the age and use similar conditions for mass accretion rate, initial period, and magnetic field than Test 1. 
 
 Distributions of Branching ratio
 
