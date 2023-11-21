@@ -29,7 +29,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 ### Test 3 (Model: Magnetic field remains constant with age)
 We construct a Gaussian distribution of magnetic field with a fixed value, utilize it in all ages, and use similar conditions for mass accretion rate, initial period, and branching ratio than Test 1. 
 
-Distribution of Magnetic Field
+Distribution of Magnetic Field in the four age bins
 
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin1_B_model_constant_2.png?raw=true" width="400"/> 
 
@@ -70,7 +70,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 ### Test 3 (Model: Branching ratio remains constant with age)
 We construct a Gaussian distribution of branching ratio increasing along the age and use similar conditions for mass accretion rate, initial period, and magnetic field than Test 1. 
 
-Distributions of Branching ratio
+Distributions of Branching ratio in the four age bins
 
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin1_B_model_constant_chi_2.png?raw=true" width="400"/>
 
