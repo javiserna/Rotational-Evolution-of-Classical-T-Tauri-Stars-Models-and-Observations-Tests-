@@ -4,7 +4,6 @@ Here, we prove that resulting values of v sin(i) that come from the decrease of 
 
 ---
 ## Magnetic Field Tests
----
 
 ### Test 1 (Model: Magnetic field decreases with age)
 We use the results found in our paper for this we choose values of the magnetic field that follow the CDF of each bin (Figure 13). Similarly, we use values of the mass accretion rate per bin from Figure 11, choose random values of the initial rotation period within the range of 1 to 8 days, and set the branching ratio parameter to 0.3.
@@ -46,7 +45,6 @@ Instead of Tests 2 and 3 which can not reproduce observations.
 
 ---
 ## Branching ratio Tests
----
 
 ### Test 1 (Model: Branching ratio decreases with age)
 We use the results found in our paper for this we choose values of the Branching ratio that follow the CDF of each bin (Figure 13). Similarly, we use values of the mass accretion rate per bin from Figure 11, choose random values of the initial rotation period within the range of 1 to 8 days, and set the magnetic field parameter to 2000 G.
