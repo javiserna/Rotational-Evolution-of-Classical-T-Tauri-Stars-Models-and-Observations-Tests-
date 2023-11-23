@@ -1,5 +1,5 @@
 # Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-
-This repository was created for the readers, to show them the best posterior models of magnetic field and branching ratio that best reproduces v sin(i) observations.
+This repository was created to show the readers the best posterior models of magnetic field and branching ratio that best reproduces v sin(i) observations.
 Here, we prove that resulting values of v sin(i) that come from the decrease of magnetic field and branching ratio distributions with age (Figure 12 of our paper) effectively account for v sin(i) observations of Figure 10.
 
 ---
