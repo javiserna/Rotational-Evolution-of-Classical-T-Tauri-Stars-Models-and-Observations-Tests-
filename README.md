@@ -13,6 +13,8 @@ In the subsequent plots, we illustrate the resulting distributions of vsin(i) ge
 <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/Figures/bin1_vsini_posterior.png" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin2_vsini_posterior.png?raw=true" width="400"/>
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_posterior.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_posterior.png?raw=true" width="400"/>
 
+The error bars in the model vsini distribution represent the standard deviation of 100 realizations. This is equivalent to our ABC procedure.
+
 ### Test 2 (Model: Magnetic field increases with age)
 We feed our models with a set of Gaussian distributions of magnetic field increasing along the age and use similar conditions for mass accretion rate, initial period, and branching ratio as the Test 1.
 
