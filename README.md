@@ -1,5 +1,5 @@
 # Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-
-This repository was created to display the back-forward tests of the ABC method, thus demonstrating the model that best reproduces observations.
+This repository was created for the readers, to show them the best posterior models of magnetic field and branching ratio that best reproduces v sin(i) observations.
 Here, we prove that resulting values of v sin(i) that come from the decrease of magnetic field and branching ratio distributions with age (Figure 12 of our paper) effectively account for v sin(i) observations of Figure 10.
 
 ---
@@ -13,7 +13,7 @@ In the subsequent plots, we illustrate the resulting distributions of vsin(i) ge
 <img src="https://raw.githubusercontent.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/main/Figures/bin1_vsini_posterior.png" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin2_vsini_posterior.png?raw=true" width="400"/>
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_posterior.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_posterior.png?raw=true" width="400"/>
 
-The model vsin(i) distribution is the median of 100 realizations, and the error bars represent the standard deviation. Observed vsin(i) distributions come from Figure 10. All histograms are properly normalized to the area of each distribution.
+The model v sin(i) distribution is the median of 100 realizations, and the error bars represent the standard deviation. Observed v sin(i) distributions come from Figure 10. All histograms are properly normalized to the area of each distribution.
 
 ### Test 2 (Model: Magnetic field increases with age)
 We feed our models with a set of Gaussian distributions of magnetic field increasing along the age and use similar conditions for mass accretion rate, initial period, and branching ratio as the Test 1.
@@ -57,7 +57,7 @@ In the subsequent plots, we illustrate the resulting distributions of vsin(i) ge
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin1_vsini_posterior_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin2_vsini_posterior_chi.png?raw=true" width="400"/>
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_posterior_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_posterior_chi.png?raw=true" width="400"/>
 
-The model vsin(i) distribution is the median of 100 realizations, and the error bars represent the standard deviation. Observed vsin(i) distributions come from Figure 10. All histograms are properly normalized to the area of each distribution.
+The model v sin(i) distribution is the median of 100 realizations, and the error bars represent the standard deviation. Observed v sin(i) distributions come from Figure 10. All histograms are properly normalized to the area of each distribution.
 
 ### Test 2 (Model: Branching ratio increases with age)
 We feed our models with a set of Gaussian distributions of branching ratio increasing along the age and use similar conditions for mass accretion rate, initial period, and magnetic field ratio than Test 1. 
