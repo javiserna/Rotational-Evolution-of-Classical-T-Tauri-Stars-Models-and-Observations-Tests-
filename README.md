@@ -39,8 +39,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_model_constant_2.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_model_constant_2.png?raw=true" width="400"/>
 
 ## Comparative results between three tests for magnetic field
-Test 1 demonstrates similar distributions of vsin(i) observed and predicted by the ABC method. 
-Instead of Tests 2 and 3 which can not reproduce observations.
+Test 1 demonstrates that distributions of vsin(i) observed and predicted by the ABC method tend to be similar above 80%. While similarity provided by Tests 2 and 3 decreases with age below 40%.
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_Bfield.png?raw=true" width="700"/>
 
 ---
@@ -81,6 +80,6 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 
 
 ## Comparative results between two tests for branching ratio
-Test 1 demonstrates that distributions of vsin(i) observed and predicted by the ABC method tend to be similar up to 80%. Instead of Tests 2 and 3 which similarity metric decreases with age.
+Test 1 demonstrates that distributions of vsin(i) observed and predicted by the ABC method tend to be similar above 80%. While similarity provided by Tests 2 and 3 decreases with age below 40%.
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_chi.png?raw=true" width="800"/>
 
