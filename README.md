@@ -1,5 +1,5 @@
 # Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-
-This repository was made to demonstrate that by making tests from back forward we can recover a similar distribution of our observations vsin(i).
+This repository was created to display the back-forward tests of the ABC method, thus demonstrating the model that best reproduces observations.
 Here, we prove that resulting values of v sin(i) that come from the decrease of magnetic field and branching ratio distributions with age (Figure 12 of our paper) effectively account for v sin(i) observations of Figure 10.
 
 ---
