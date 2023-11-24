@@ -73,7 +73,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_model_increase_chi.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_model_increase_chi.png?raw=true" width="400"/>
 
 ### Test 3 (Model: Branching ratio remains constant with age)
-We feed our models with a Gaussian distribution of branching ratio fixed to the value of 0.5 in all age bins and use similar conditions for mass accretion rate, initial period, and magnetic field than Test 1. 
+We feed our models with a Gaussian distribution of branching ratio fixed to the central value of 0.5 in all age bins and use similar conditions for mass accretion rate, initial period, and magnetic field than Test 1. 
 
 Distributions of Branching ratio in the four age bins
 
@@ -84,7 +84,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin1_vsini_model_constant_chi_2.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin2_vsini_model_constant_chi_2.png?raw=true" width="400"/>
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin3_vsini_model_constant_chi_2.png?raw=true" width="400"/> <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/bin4_vsini_model_constant_chi_2.png?raw=true" width="400"/>
 
-## Comparative results between two tests for branching ratio
+## Comparative results between three tests for branching ratio
 Test 1 demonstrates that distributions of vsin(i) observed and predicted by the ABC method tend to be similar above 80%. While similarity provided by Tests 2 and 3 decreases with age and tends to be below 50%.
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_chi.png?raw=true" width="800"/>
 
