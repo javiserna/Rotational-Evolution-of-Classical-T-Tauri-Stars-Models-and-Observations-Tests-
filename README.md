@@ -98,7 +98,7 @@ In the subsequent plots, we illustrate the resulting distributions of vsin(i) ge
 
 
 ## Comparative results between all tests
-<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_chi.png?raw=true" width="800"/>
+<img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_combined.png?raw=true" width="800"/>
 
 ## References
 Swain, M.J., Ballard, D.H. 1991. Color indexing. Int J Comput Vision 7, 11–32. (Section 3.1) https://doi.org/10.1007/BF00130487
