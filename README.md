@@ -43,7 +43,7 @@ In the subsequent plots, we display the resulting distributions of vsin(i) in co
 
 
 ## Comparative results between three tests for magnetic field
-Test 1 demonstrates that distributions of vsin(i) observed and predicted by the Back-forward test tend to be similar above 80%. While similarity provided by Tests 2 and 3 decreases with age and tends to be below 50%.
+Test 1 demonstrates that distributions of vsin(i) observed and predicted by the Back-forward test tend to be similar above 80%. While similarity provided by the model of the magnetic field increases with age and the magnetic field constant, decreases with age and tends to be below 50%.
 <img src="https://github.com/javiserna/Rotational-Evolution-of-Classical-T-Tauri-Stars-Models-and-Observations-Tests-/blob/main/Figures/Similarity_Bfield.png?raw=true" width="700"/>
 
 ---
